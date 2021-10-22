@@ -1,0 +1,9 @@
+ <div class="container my-3">
+                <h1>Take your Notes here</h1>
+                <div> <div >
+                    <div class="form-group">
+    <textarea class="note" id="addTxt" style="height: 500px; width: 300px;">        </textarea>
+                    </div>
+                    <button class="btn btn-primary" id="addBtn" onclick="save" style="background-color:green">
+                      Save Note
+                    </button></div></div></div></div>
